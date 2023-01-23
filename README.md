@@ -1,5 +1,6 @@
 # 💫 About Me:
-### Hello there 👋 I hope we can both exchange ideas and collaborate<br><br>I'm a Full-Stack Software Developer thanks to a scholarship given by 4Geeks Academy.🌱 I’m currently learning Technical Support through the specialization 'Google IT Support Professional Certificate' on Coursera,<br>thanks to another scholarship provided by INEFOP. I'm enthusiastic with anything related to IT and AI.<br>Actually, 🔭 I’m currently working on a thesis degree focuses en automated news generation thanks to AI.
+### Hello there 👋 I'm Facundo and I hope we can both exchange ideas and collaborate<br><br>
+I'm a Full-Stack Software Developer from Uruguay, thanks to a scholarship given by 4Geeks Academy.🌱 I’m currently learning Technical Support through the specialization 'Google IT Support Professional Certificate' on Coursera, thanks to another scholarship provided by INEFOP. I'm enthusiastic with anything related to IT and AI. Actually, 🔭 I’m currently working on a thesis degree focuses en automated news generation thanks to AI.
 
 
 ## 🌐 Socials:
