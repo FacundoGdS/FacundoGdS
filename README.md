@@ -5,6 +5,9 @@ I'm a Full-Stack Software Developer thanks to a scholarship given by 4Geeks Acad
 thanks to another scholarship provided by INEFOP. I'm enthusiastic with anything related to IT and AI.
 Actually, 🔭 I’m currently working on a thesis degree focuses en automated news generation thanks to AI.
 
+The technologies that I handle are:
+
+
 <!--
 **FacundoGdS/FacundoGdS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
